@@ -1,0 +1,21 @@
+missing module named 'multiprocessing.forking' - imported by /Users/yg/.virtualenvs/3/lib/python3.6/site-packages/PyInstaller/loader/rthooks/pyi_rth_multiprocessing.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.SimpleQueue - imported by multiprocessing, concurrent.futures.process
+missing module named nt - imported by os, ntpath, shutil, /Users/yg/workcode/test/transpytopyc/pyctrans.py
+missing module named 'org.python' - imported by pickle, /Users/yg/workcode/test/transpytopyc/pyctrans.py, xml.sax
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /Users/yg/workcode/test/transpytopyc/pyctrans.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /Users/yg/workcode/test/transpytopyc/pyctrans.py
+missing module named _winreg - imported by platform, /Users/yg/workcode/test/transpytopyc/pyctrans.py
+missing module named java - imported by platform, /Users/yg/workcode/test/transpytopyc/pyctrans.py
+missing module named 'java.lang' - imported by platform, /Users/yg/workcode/test/transpytopyc/pyctrans.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /Users/yg/workcode/test/transpytopyc/pyctrans.py
+missing module named winreg - imported by platform, mimetypes, /Users/yg/workcode/test/transpytopyc/pyctrans.py, urllib.request
+missing module named msvcrt - imported by subprocess, multiprocessing.spawn, multiprocessing.popen_spawn_win32, /Users/yg/workcode/test/transpytopyc/pyctrans.py, getpass
+missing module named _winapi - imported by subprocess, multiprocessing.reduction, multiprocessing.connection, multiprocessing.heap, multiprocessing.popen_spawn_win32, /Users/yg/workcode/test/transpytopyc/pyctrans.py
+missing module named _dummy_threading - imported by dummy_threading, /Users/yg/workcode/test/transpytopyc/pyctrans.py
+missing module named org - imported by copy, /Users/yg/workcode/test/transpytopyc/pyctrans.py
